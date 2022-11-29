@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="cv2.imread" />
+          <option value="cv2.split" />
           <option value="cv2.*" />
         </list>
       </option>
